@@ -9,9 +9,9 @@ const posts = [
   {
     id: 1,
     author: {
-      avatarUrl: "https://github.com/felipengr.png",
-      name: 'Felipe Nogueira',
-      role: 'Web Developer'
+      avatarUrl: "https://github.com/diego3g.png",
+      name: 'Diego Fernandes',
+      role: 'CTO Rocketseat'
     },
     content: [
       { type : 'paragraph', content: 'Fala galeraa 👋' },
@@ -50,6 +50,7 @@ const posts = [
               <Post
                 key={post.id}
                 author={post.author}
+                //@ts-ignore
                 content={post.content}
                 publishedAt={post.publishedAt}
               />
