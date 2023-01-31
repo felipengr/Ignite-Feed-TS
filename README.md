@@ -8,19 +8,19 @@
 <div align="center">
 
   <a href="">
-    <img src="https://img.shields.io/github/languages/count/franciniltonsoaresmenzes/event-platform.svg?color=00B37E" alt="languages" >
+    <img src="https://img.shields.io/github/languages/count/felipengr/Ignite-Feed-TS.svg?color=00B37E" alt="languages" >
   </a>
 
   <a href="">
-    <img src="https://img.shields.io/github/languages/top/franciniltonsoaresmenzes/event-platform.svg?color=00B37E" alt="languagesTop" >
+    <img src="https://img.shields.io/github/languages/top/felipengr/Ignite-Feed-TS.svg?color=00B37E" alt="languagesTop" >
   </a>
 
   <a href="">
-    <img src="https://img.shields.io/github/repo-size/franciniltonsoaresmenzes/event-platform.svg?color=00B37E" alt="repo-size" >
+    <img src="https://img.shields.io/github/repo-size/felipengr/Ignite-Feed-TS.svg?color=00B37E" alt="repo-size" >
   </a>
 
   <a href="">
-    <img src="https://img.shields.io/github/last-commit/franciniltonsoaresmenzes/event-platform.svg?color=00B37E" alt="last-commit" >
+    <img src="https://img.shields.io/github/last-commit/felipengr/Ignite-Feed-TS.svg?color=00B37E" alt="last-commit" >
   </a>
 
 </div>
